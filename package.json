@@ -8,7 +8,7 @@
     "test": "test"
   },
   "dependencies": {
-    "canvas": "~1.1.1"
+    "canvas": "*"
   },
   "devDependencies": {
     "tape": "~2.1.0",
